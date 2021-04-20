@@ -11,11 +11,11 @@ import (
 
 	"github.com/yvasiyarov/gorelic"
 
-	"github.com/techievee/ethash-mining-pool/tree/V2.0_Eth_11/api"
-	"github.com/techievee/ethash-mining-pool/tree/V2.0_Eth_11/exchange"
-	"github.com/techievee/ethash-mining-pool/tree/V2.0_Eth_11/payouts"
-	"github.com/techievee/ethash-mining-pool/tree/V2.0_Eth_11/proxy"
-	"github.com/techievee/ethash-mining-pool/tree/V2.0_Eth_11/storage"
+	"github.com/FndNur1Labs/ethash-mining-pool/tree/V2.0_Eth_11/api"
+	"github.com/FndNur1Labs/ethash-mining-pool/tree/V2.0_Eth_11/exchange"
+	"github.com/FndNur1Labs/ethash-mining-pool/tree/V2.0_Eth_11/payouts"
+	"github.com/FndNur1Labs/ethash-mining-pool/tree/V2.0_Eth_11/proxy"
+	"github.com/FndNur1Labs/ethash-mining-pool/tree/V2.0_Eth_11/storage"
 )
 
 var cfg proxy.Config
