@@ -69,7 +69,7 @@ Clone & compile:
     git clone https://github.com/techievee/ethash-mining-pool.git
     <Change the branch>
     git pull
-    cd open-ethereum-pool
+    cd ethash-mining-pool
     make
 
 Install redis-server.
