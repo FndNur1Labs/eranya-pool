@@ -14,7 +14,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/util"
+	"github.com/FndNur1Labs/eranya-pool/util"
 )
 
 type RPCClient struct {
