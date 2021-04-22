@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/eranya-pool/tree/V2.0_Eth/storage"
-	"github.com/eranya-pool/tree/V2.0_Eth/util"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/storage"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/util"
 )
 
 type Config struct {
