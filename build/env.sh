@@ -11,7 +11,7 @@ fi
 workspace="$PWD/build/_workspace"
 root="$PWD"
 ethdir="$workspace/src/github.com/FndNur1Labs"
-if [ ! -L "$ethdir/eranya-pool/tree/V2.0_Eth_11" ]; then
+if [ ! -L "$ethdir/eranya-pool/tree/V2.0_Eth" ]; then
     mkdir -p "$ethdir"
     cd "$ethdir"
     ln -s ../../../../../. eranya-pool
@@ -25,8 +25,8 @@ GOBIN="$PWD/build/bin"
 export GOPATH GOBIN
 
 # Run the command inside the workspace.
-cd "$ethdir/eranya-pool/tree/V2.0_Eth_11"
-PWD="$ethdir/eranya-pool/tree/V2.0_Eth_11"
+cd "$ethdir/eranya-pool/tree/V2.0_Eth"
+PWD="$ethdir/eranya-pool/tree/V2.0_Eth"
 
 # Launch the arguments with the configured environment.
 exec "$@"
