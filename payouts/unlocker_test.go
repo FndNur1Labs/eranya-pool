@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/eranya-pool/tree/V2.0_Eth_11/rpc"
-	"github.com/eranya-pool/tree/V2.0_Eth_11/storage"
+	"github.com/eranya-pool/tree/V2.0_Eth/rpc"
+	"github.com/eranya-pool/tree/V2.0_Eth/storage"
 )
 
 func TestMain(m *testing.M) {
