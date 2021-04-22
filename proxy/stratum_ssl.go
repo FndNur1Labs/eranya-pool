@@ -10,7 +10,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/util"
+	"github.com/FndNur1Labs/eranya-pool/util"
 )
 
 const (
