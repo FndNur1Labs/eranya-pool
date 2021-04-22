@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/eranya-pool/tree/V2.0_Eth_11/rpc"
-	"github.com/eranya-pool/tree/V2.0_Eth_11/util"
+	"github.com/eranya-pool/tree/V2.0_Eth/rpc"
+	"github.com/eranya-pool/tree/V2.0_Eth/util"
 )
 
 // Allow only lowercase hexadecimal with 0x prefix
