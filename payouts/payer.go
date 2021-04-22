@@ -10,9 +10,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common/hexutil"
 
-	"github.com/eranya-pool/tree/V2.0_Eth_11/rpc"
-	"github.com/eranya-pool/tree/V2.0_Eth_11/storage"
-	"github.com/eranya-pool/tree/V2.0_Eth_11/util"
+	"github.com/eranya-pool/tree/V2.0_Eth/rpc"
+	"github.com/eranya-pool/tree/V2.0_Eth/storage"
+	"github.com/eranya-pool/tree/V2.0_Eth/util"
 )
 
 const txCheckInterval = 5 * time.Second
