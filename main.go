@@ -11,11 +11,11 @@ import (
 
 	"github.com/yvasiyarov/gorelic"
 
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth_11/api"
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth_11/exchange"
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth_11/payouts"
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth_11/proxy"
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth_11/storage"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/api"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/exchange"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/payouts"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/proxy"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/storage"
 )
 
 var cfg proxy.Config
