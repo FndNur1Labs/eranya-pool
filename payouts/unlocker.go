@@ -10,9 +10,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common/math"
 
-	"github.com/eranya-pool/tree/V2.0_Eth/rpc"
-	"github.com/eranya-pool/tree/V2.0_Eth/storage"
-	"github.com/eranya-pool/tree/V2.0_Eth/util"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/rpc"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/storage"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/util"
 )
 
 type UnlockerConfig struct {
