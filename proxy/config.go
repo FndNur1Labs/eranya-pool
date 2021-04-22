@@ -1,11 +1,11 @@
 package proxy
 
 import (
-	"github.com/eranya-pool/tree/V2.0_Eth/api"
-	"github.com/eranya-pool/tree/V2.0_Eth/exchange"
-	"github.com/eranya-pool/tree/V2.0_Eth/payouts"
-	"github.com/eranya-pool/tree/V2.0_Eth/policy"
-	"github.com/eranya-pool/tree/V2.0_Eth/storage"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/api"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/exchange"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/payouts"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/policy"
+	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/storage"
 )
 
 type Config struct {
