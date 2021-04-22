@@ -13,10 +13,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/policy"
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/rpc"
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/storage"
-	"github.com/FndNur1Labs/eranya-pool/tree/V2.0_Eth/util"
+	"github.com/FndNur1Labs/eranya-pool/policy"
+	"github.com/FndNur1Labs/eranya-pool/rpc"
+	"github.com/FndNur1Labs/eranya-pool/storage"
+	"github.com/FndNur1Labs/eranya-pool/util"
 )
 
 type ProxyServer struct {
